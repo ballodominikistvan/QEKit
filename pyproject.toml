@@ -4,6 +4,9 @@ build-backend = "maturin"
 
 [project]
 name = "QEKit"
+version = "0.0.1"
+description = "Quantum Experimental Kit"
+readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Rust",
