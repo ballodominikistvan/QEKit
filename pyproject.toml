@@ -3,8 +3,8 @@ requires = ["maturin>=1.13,<2.0"]
 build-backend = "maturin"
 
 [project]
-name = "QEKit"
-version = "0.0.1"
+name = "qekit"
+version = "0.1.0"
 description = "Quantum Experimental Kit"
 readme = "README.md"
 requires-python = ">=3.8"
